@@ -1,0 +1,1 @@
+th.LongTensor(data.labels)
